@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=200&section=header&text=NEEYSHANT&fontSize=70&fontColor=0d1117&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=ECE+Student+%7C+AI%2FML+%7C+OS;Signal+Processing+%7C+3D+Design;code.+create.+repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=BEI+Student+%7C+AI%2FML+%7C+OS;Signal+Processing+%7C+3D+Design;code.+create.+repeat." />
 
 </div>
 
