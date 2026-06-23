@@ -24,7 +24,7 @@ I build systems, train models, create visuals, and spend way too much time figur
 ## Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,asm,js,linux,git,tensorflow,pytorch,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,linux,git,tensorflow,pytorch,blender" />
 </p>
 
 <br>
@@ -32,11 +32,10 @@ I build systems, train models, create visuals, and spend way too much time figur
 ## What i'm working on
 
 ```txt
-building    → operating systems
 learning    → machine learning
+improving   → software engineering skills
 exploring   → signal processing
 creating    → 3D visuals & motion graphics
-improving   → software engineering skills
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=20" />
